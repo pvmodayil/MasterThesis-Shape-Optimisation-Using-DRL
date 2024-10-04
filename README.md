@@ -15,5 +15,6 @@ https://github.com/pvmodayil/MasterThesis-Shape-Optimisation-Using-DRL/assets/66
 ├── Report                  # Contains Latex code for the final report
 ├── streamlit-app           # Contains code for streamlit app that generates the potential curve for given board parameters
 ├── MasterThesis_Presentation.pptx
-└── README.md
+├── README.md
+└── requirements.txt
 ```
