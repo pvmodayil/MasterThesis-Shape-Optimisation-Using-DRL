@@ -1,3 +1,5 @@
+## Contents
+```
 .
 ├── GA_optimisation         # Contains code for Genetic Algorithms optimisation of RL-predicted curves
 ├── Method1                 # Contains Scatter Point G point generation trial
@@ -9,3 +11,4 @@
 ├── MasterThesis_Presentation.pptx
 ├── README.md
 └── requirements.txt
+```
